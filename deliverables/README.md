@@ -8,7 +8,6 @@ Follow these steps to set up the environment and run the script to generate a bo
 First, clone the repository from GitHub:
 ```sh
 git clone https://github.com/rajamalakanti/tower-take-home.git
-cd Book Report Technical Assessment
 ```
 
 ### 2. Navigate to the Project Directory
